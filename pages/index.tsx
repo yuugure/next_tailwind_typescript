@@ -15,11 +15,11 @@ const Index = () => (
             className="rounded-full h-32 w-32"
             alt="私のアバター"
           />
-          <h1 className="text-teal-700 text-4xl my-4">Yuuichi Nishioka</h1>
-          <p className="text-teal-600 text-justify px-8 mb-8">Webエンジニア</p>
+          <h1 className="text-gray-700 text-4xl my-4">Yuuichi Nishioka</h1>
+          <p className="text-gray-600 text-justify px-8 mb-8">Webエンジニア</p>
         </div>
       </div>
-      <div className="flex flex-wrap mt-10 text-teal-600">
+      <div className="flex flex-wrap mt-10 text-gray-600">
         <Card
           title={'趣味'}
           description={

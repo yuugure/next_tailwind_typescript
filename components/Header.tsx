@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 const Header = () => (
   <header>
-    <nav className="flex items-center justify-between p-4 bg-teal-300 flex-no-wrap sm:flex-wrap">
+    <nav className="flex items-center justify-between p-4 flex-no-wrap sm:flex-wrap bg-gray-300">
       <ul>
         <li className="mr-6">
           <Link href="/">

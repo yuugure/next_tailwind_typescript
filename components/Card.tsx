@@ -5,9 +5,9 @@ const Card = props => (
         <div className="flex-1 h-4 w-4 m rounded-full m-1 bg-yellow-100">
           <div className="h-2 w-2 rounded-full m-1 bg-yellow-500"></div>
         </div>
-        <div className="text-teal-700">{props.title}</div>
+        <div className="text-gray-700">{props.title}</div>
       </div>
-      <div className="text-teal-600 text-left">{props.description}</div>
+      <div className="text-gray-600 text-left">{props.description}</div>
     </div>
   </div>
 )
