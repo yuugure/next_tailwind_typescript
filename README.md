@@ -5,7 +5,7 @@
 
 # using oss
 
-- next.js
+- Next.js
 - tailwind.css
-- react
+- React
 - TypeScript
