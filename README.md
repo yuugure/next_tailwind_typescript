@@ -1,10 +1,9 @@
 # next_tailwind_typescript
 
-Template which is based on Next.js
+- Template which is based on Next.js
+- My Profile Sample
 
-next.js + tailwindcss + TypeScript
-
-sample
+# using oss
 
 - next.js
 - tailwind.css
