@@ -1,4 +1,9 @@
-const Card = props => (
+type CardProps = {
+  title: string
+  description: string
+}
+
+const Card = (props: CardProps) => (
   <div className="mb-6 p-4 md:w-1/3 md:mb-0 flex flex-col justify-center items-center max-w-sm mx-auto">
     <div className="w-70 bg-white -mt-10 shadow-lg rounded-lg overflow-hidden p-5">
       <div className="inline-flex">
