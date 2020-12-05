@@ -6,6 +6,9 @@
 # using oss
 
 - Next.js
-- tailwind.css
 - React
 - TypeScript
+- tailwind.css
+- Jest
+- ESLint
+- Prettier
