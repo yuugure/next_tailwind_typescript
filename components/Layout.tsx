@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Header from './Header'
 import Footer from './Footer'
 
-const Layout = (props: { children:ReactNode }) => (
+const Layout = (props: { children: ReactNode }) => (
   <>
     <Head>
       <link rel="icon" href="/favicon.ico" />
