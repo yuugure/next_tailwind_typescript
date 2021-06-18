@@ -11,7 +11,7 @@ const Index = () => (
       <div className="flex justify-center mt-10">
         <div className="flex flex-col items-center">
           <img
-            src="/images/myprofile.png"
+            src="/myprofile.png"
             className="rounded-full h-32 w-32"
             alt="私のアバター"
           />
